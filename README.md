@@ -1,14 +1,10 @@
 [![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQEBNgPvxHrvEQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732952321429?e=1739404800&v=beta&t=ywslPyqIW0Bt___W24Du_8W3dtAgxXpe9Q2HWrouO98)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Arvind Kumar</h1>
-<h3 align="center">A passionate Software Development from India</h3>
+<h3 align="center"👨‍💻 Web Developer | Java Developer | UI/UX Designer | AWS | Cloud | Communication</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubarvind01&label=Profile%20views&color=0e75b6&style=flat" alt="githubarvind01" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Backend Development**
-
-- 💬 Ask me about **Frontend Development**
 
 <p align="center"> 
  <a href="https://www.linkedin.com/in/arvind-kumar-589103274/" target="_blank">
