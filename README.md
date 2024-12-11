@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQEBNgPvxHrvEQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732952321429?e=1739404800&v=beta&t=ywslPyqIW0Bt___W24Du_8W3dtAgxXpe9Q2HWrouO98)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Arvind Kumar</h1>
-<h3 align="center"👨‍💻 Web Developer | Java Developer | UI/UX Designer | AWS | Cloud | Communication</h3>
+<h3 align="center">👨‍💻 Web Developer | Java Developer | UI/UX Designer | AWS | Cloud | Communication</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubarvind01&label=Profile%20views&color=0e75b6&style=flat" alt="githubarvind01" /> </p>
 
@@ -31,7 +31,7 @@
 </p>
 
 
-## All DSA Badges @LeetCode
+## DSA Badges @LeetCode
 
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-04.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-05.gif" width="40px"></img>
