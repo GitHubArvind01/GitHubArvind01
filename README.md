@@ -8,15 +8,15 @@
 
 <p align="center"> 
  <a href="https://www.linkedin.com/in/arvind-kumar-589103274/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Prince Singh"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Arvind Kumar"/>
  </a>
  <a href="https://github.com/GitHubArvind01/" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="PrinceSinghhub" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Arvind Kumar" />
  </a>
  <a href="https://www.instagram.com/mr._arvind_07/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Prince Singh" />
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Arvind Kumar" />
    <a href="mailto:kumararvind21390@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Prince Singh" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Arvind Kumar" />
  </a> 
 </p>
 
