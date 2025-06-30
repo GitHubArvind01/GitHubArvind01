@@ -41,10 +41,15 @@
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-09.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-11.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-12.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2024.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/202501.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" width="40px"></img>
 
