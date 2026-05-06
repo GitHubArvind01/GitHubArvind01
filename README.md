@@ -158,10 +158,9 @@ const arvind = {
 ### ⚛️ Frameworks & Libraries
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=red)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-20232A?style=for-the-badge&logo=springboot&logoColor=green)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
@@ -198,22 +197,21 @@ const arvind = {
 <div align="center">
 
 <a href="https://github.com/GitHubArvind01/GoMeet">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GitHubArvind01&repo=GoMeet&theme=tokyonight&hide_border=true" width="400"/>
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/81708b9c-6ac1-4b81-bab2-eff427f4443e" />
+
 </a>
 
-<a href="https://github.com/GitHubArvind01/AI-Job-Screening">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GitHubArvind01&repo=AI-Job-Screening&theme=tokyonight&hide_border=true" width="400"/>
+<a href="https://github.com/GitHubArvind01/QuantityMeasurementApp">
+<a href="https://github.com/GitHubArvind01/QuantityMeasurementApp-Frontend">
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/bb97575b-1acf-4efb-9291-b3d4fe6328ef" />
+
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/GitHubArvind01/CodeUp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GitHubArvind01&repo=CodeUp&theme=tokyonight&hide_border=true" width="400"/>
-</a>
-
-<a href="https://github.com/GitHubArvind01/Vertual_Assist">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GitHubArvind01&repo=Vertual_Assist&theme=tokyonight&hide_border=true" width="400"/>
-</a>
+<a href="https://github.com/GitHubArvind01/AI-Powered-Resume-Builder-Backend">
+<a href="https://github.com/GitHubArvind01/AI-Powered-Resume-Builder-Frontend">
+<img width="1536" height="1024" alt="ResumeAI-Stock (2)" src="https://github.com/user-attachments/assets/68308c4e-bb8c-4e41-95aa-6e1a45283146" />
 
 </div>
 
@@ -248,60 +246,6 @@ const arvind = {
 </div>
 
 ---
-
-## 🐍 Snake Workflow Setup
-
-<details>
-<summary>📋 Click to see how to enable the snake animation on your profile!</summary>
-
-Create the file `.github/workflows/snake.yml` in your `GitHubArvind01` profile repo:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-    steps:
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-After pushing, go to **Actions** tab and run the workflow manually once!
-
-</details>
-
----
-
-<div align="center">
-
-<!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 **💙 Thanks for visiting! Drop a ⭐ if you found something useful!**
 
