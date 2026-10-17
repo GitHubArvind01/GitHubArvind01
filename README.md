@@ -34,7 +34,7 @@
 const arvind = {
   name: "Arvind Kumar",
   location: "Bhopal, Madhya Pradesh 🇮🇳",
-  role: "Aspiring Software Engineer",
+  role: "Software Engineer at Capgimini",
   education: "Electronics And Communication Engineering",
   
   dsa: {
