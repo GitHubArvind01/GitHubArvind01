@@ -1,10 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Arvind%20Kumar&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20at%20Capgemini%7C%20DSA%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18"/>
-
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Arvind+Kumar!;%F0%9F%92%BB+Aspiring+Software+Engineer!;%F0%9F%A7%A0+DSA+Problem+Solver!;%F0%9F%8C%90+Full+Stack+Web+Developer!;%F0%9F%8E%A8+UI%2FUX+Designer!;%E2%98%81%EF%B8%8F+AWS+%7C+Cloud+Enthusiast!;Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Arvind%20Kumar&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20at%20Capgemini%20%7C%20DSA%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18"/>
 
 <br/>
 
